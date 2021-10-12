@@ -1,16 +1,18 @@
-# _flutter
+This is a task done under GDSC IGDTUW. 
 
-A new Flutter project.
+SCREEN 1: 
 
-## Getting Started
+![screen1](https://user-images.githubusercontent.com/25116462/135756326-88181c91-e0f8-4b8e-835e-72ded3a8f9e2.jpeg)
 
-This project is a starting point for a Flutter application.
+SCREEN 2: 
 
-A few resources to get you started if this is your first Flutter project:
+![screen2](https://user-images.githubusercontent.com/25116462/135756337-fc1a330c-8360-4a45-9e4b-8af8a2e01fa4.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+SCREEN 3: 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screen3](https://user-images.githubusercontent.com/25116462/135756352-9604f295-26ee-41f1-975f-27aa5790c662.jpeg)
+
+SCREEN 4: 
+
+![screen4](https://user-images.githubusercontent.com/25116462/135756366-deec9c65-c3a9-43a3-82ce-d69697f1a4b8.jpeg)
+
