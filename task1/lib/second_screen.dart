@@ -17,7 +17,7 @@ class SecondScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("LATEST SCHOLARSHIPS"),),
-      body: Column(
+      body: ListView(
         children: [
           Text("Latest Scholarships", style: TextStyle(fontSize: 40),),
           Divider(height: 6,thickness: 3,),
@@ -62,7 +62,42 @@ class SecondScreen extends StatelessWidget {
             child: RaisedButton(onPressed: _launchURLApp
                 ,child: Text("Rajasthan Govt to Offer Special Scholarship to IAS Aspirants for Coaching", style: TextStyle(fontSize: 20),)),
           ),
-
+        Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: RaisedButton(onPressed: _launchURLApp
+                ,child: Text("Rajasthan Govt to Offer Special Scholarship to IAS Aspirants for Coaching", style: TextStyle(fontSize: 20),)),
+          ),
+          Divider(height: 6,thickness: 3,),
+          SizedBox(height: 10,),
+          Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: RaisedButton(onPressed: _launchURLApp
+                ,child: Text("Rajasthan Govt to Offer Special Scholarship to IAS Aspirants for Coaching", style: TextStyle(fontSize: 20),)),
+          ),
+          Divider(height: 6,thickness: 3,),
+          SizedBox(height: 10,),
+          Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: RaisedButton(onPressed: _launchURLApp
+                ,child: Text("Rajasthan Govt to Offer Special Scholarship to IAS Aspirants for Coaching", style: TextStyle(fontSize: 20),)),
+          ),
+          Divider(height: 6,thickness: 3,),
+          SizedBox(height: 10,),
+          Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: RaisedButton(onPressed: _launchURLApp
+                ,child: Text("Rajasthan Govt to Offer Special Scholarship to IAS Aspirants for Coaching", style: TextStyle(fontSize: 20),)),
+          ),
+          Divider(height: 6,thickness: 3,),
+          SizedBox(height: 10,),
+          Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: RaisedButton(onPressed: _launchURLApp
+                ,child: Text("Rajasthan Govt to Offer Special Scholarship to IAS Aspirants for Coaching", style: TextStyle(fontSize: 20),)),
+          ),
+          Divider(height: 6,thickness: 3,),
+          SizedBox(height: 10,),
+          
         ],
       ),
     );
